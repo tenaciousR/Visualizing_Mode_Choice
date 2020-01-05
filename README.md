@@ -6,7 +6,9 @@
 * The approach taken was to gather two kinds of data and combine the values to give an accurate representation of mode times.
 
 **Hard Data**
-* Utilizing [Google Maps Distance Matrix APIs](https://developers.google.com/maps/documentation/distance-matrix/start) to collect the travel time per route based on **origins**, **destinations, mode, and a [Google API Key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key)**
+* Utilizing [Google Maps Distance Matrix APIs](https://developers.google.com/maps/documentation/distance-matrix/start) to collect the travel time per route based on **origins, destinations, mode, departure times, and a [Google API Key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key)**.
+
+* Utilizing [Postman API](https://www.getpostman.com/) to automate the process 
 
 ## Setup/Usage
 
