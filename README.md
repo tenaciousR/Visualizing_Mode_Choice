@@ -31,3 +31,7 @@
 
 ## Results
 * Combining the hard data with the survey data, the travel times were then organized into `.csv` files for each route's travel time at specific intervals throughout the day. [This is an example](https://github.com/tenaciousR/Visualizing_Mode_Choice/blob/master/route1csv.csv) of a finished organized csv file that will now be used to visualize mode efficiency. 
+
+* The [route plotter function](https://github.com/tenaciousR/Visualizing_Mode_Choice/blob/master/routeplot.py) allows all the collected .csv files to be plotted. 
+
+
