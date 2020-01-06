@@ -5,7 +5,7 @@
 
 * The approach taken was to gather two kinds of data and combine the values to give an accurate representation of mode times.
 
-## Data & Setup
+## Data
 ### **Hard Data**
 * The origin/destination pairs are based on 15 shuttle routes UCF offers off campus students (top 10 routes used in analysis).
 
@@ -29,5 +29,5 @@
 
 * The responses of this survey were used to better identify the travel times per mode choice per route.
 
-
-## Process
+## Results
+* Combining the hard data with the survey data, the travel times were then organized into `.csv` files for each route's travel time at specific intervals throughout the day. [This is an example]() of a finished organized csv file that will now be used to visualize mode efficiency. 
