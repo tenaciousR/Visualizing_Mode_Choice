@@ -10,7 +10,7 @@
 
 * Utilizing [Google Maps Distance Matrix APIs](https://developers.google.com/maps/documentation/distance-matrix/start) to collect the travel time per route based on **origins, destinations, units, mode, departure times,** and a **[Google API Key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key)**.
 
-* Utilizing [Postman API](https://www.getpostman.com/), the Collection Runner was used to automate the process of gathering all the travel times. A collection is run with the JSON file set equal to the [Routes' Origin Destination pairs](XxXX), the `departure_time` variable is also used in this JSON. Epochs of a randomly selected week day during normal campus operation hours were used. 
+* Utilizing [Postman API](https://www.getpostman.com/), the Collection Runner was used to automate the process of gathering all the travel times. A collection is run with the JSON file set equal to the [Routes' Origin Destination pairs](https://github.com/tenaciousR/Visualizing_Mode_Choice/blob/master/route1_driving.json), the `departure_time` variable is also used in this JSON. Epochs of a randomly selected week day during normal campus operation hours were used in 30 minute intervals from 7am - 7pm. 
 
 ![Screen Shot 2020-01-05 at 7 12 37 PM](https://user-images.githubusercontent.com/55423732/71788366-81d30180-2fef-11ea-9f45-2d9081c2efe5.png)
 
