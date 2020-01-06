@@ -30,4 +30,4 @@
 * The responses of this survey were used to better identify the travel times per mode choice per route.
 
 ## Results
-* Combining the hard data with the survey data, the travel times were then organized into `.csv` files for each route's travel time at specific intervals throughout the day. [This is an example]() of a finished organized csv file that will now be used to visualize mode efficiency. 
+* Combining the hard data with the survey data, the travel times were then organized into `.csv` files for each route's travel time at specific intervals throughout the day. [This is an example](https://github.com/tenaciousR/Visualizing_Mode_Choice/blob/master/route1csv.csv) of a finished organized csv file that will now be used to visualize mode efficiency. 
