@@ -22,7 +22,8 @@
 ![7D18764A-9A2A-449D-9DEF-4015C3A8BAC3_4_5005_c](https://user-images.githubusercontent.com/55423732/71788459-65839480-2ff0-11ea-997d-b0b5f3e71f9d.jpeg)
 
 ### **Survey Data**
-
+* This data is derived from interviewing students around UCF campus. This [survey](https://forms.gle/MmWxnagEitfYXTjp6) allowed a cost to be determined for each mode choice (i.e. for driving the cost is parking time, for taking the shuttle the cost is waiting at the stop, etc). 
+* One of six questions on the survey:
 
 
 
