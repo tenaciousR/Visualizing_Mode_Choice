@@ -17,6 +17,7 @@
 * If done manually, the `departure_time` variable on Postman would be selected.
 
 * Response Body example for one of the routes run at a certain time of day
+![7D18764A-9A2A-449D-9DEF-4015C3A8BAC3_4_5005_c](https://user-images.githubusercontent.com/55423732/71788459-65839480-2ff0-11ea-997d-b0b5f3e71f9d.jpeg)
 
 
 
