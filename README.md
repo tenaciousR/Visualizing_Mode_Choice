@@ -5,7 +5,7 @@
 
 * The approach taken was to gather two kinds of data and combine the values to give an accurate representation of mode times.
 
-**Hard Data**
+### **Hard Data**
 * The origin/destination pairs are based on 15 shuttle routes UCF offers off campus students (top 10 routes used in analysis).
 
 * Utilizing [Google Maps Distance Matrix APIs](https://developers.google.com/maps/documentation/distance-matrix/start) to collect the travel time per route based on **origins, destinations, units, mode, departure times,** and a **[Google API Key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key)**.
@@ -20,6 +20,8 @@
 
 * Response Body example for one of the routes run at a certain time of day
 ![7D18764A-9A2A-449D-9DEF-4015C3A8BAC3_4_5005_c](https://user-images.githubusercontent.com/55423732/71788459-65839480-2ff0-11ea-997d-b0b5f3e71f9d.jpeg)
+
+### **Survey Data**
 
 
 
