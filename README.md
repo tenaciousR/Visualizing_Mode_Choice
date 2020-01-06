@@ -5,6 +5,7 @@
 
 * The approach taken was to gather two kinds of data and combine the values to give an accurate representation of mode times.
 
+## Data & Setup
 ### **Hard Data**
 * The origin/destination pairs are based on 15 shuttle routes UCF offers off campus students (top 10 routes used in analysis).
 
@@ -26,16 +27,7 @@
 * One of six questions on the survey:
 ![Screen Shot 2020-01-05 at 7 44 22 PM](https://user-images.githubusercontent.com/55423732/71788821-e728f180-2ff3-11ea-8003-beb157f6d61d.png)
 
+* The responses of this survey were used to better identify the travel times per mode choice per route.
 
-
-
-
-
-
-
-
-## Setup/Usage
-
-## Data
 
 ## Process
